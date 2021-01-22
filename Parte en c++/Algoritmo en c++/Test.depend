@@ -1,0 +1,372 @@
+# depslib dependency file v1.0
+1578006197 source:c:\users\casa\desktop\test\main.cpp
+	<iostream>
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	<cmath>
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+
+1577711151 c:\users\casa\desktop\test\include\punto.h
+	<cmath>
+
+1577574691 c:\users\casa\desktop\test\include\editorfigura.h
+	"Punto.h"
+
+1577706500 c:\users\casa\desktop\test\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578005737 c:\users\casa\desktop\test\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1577707930 c:\users\casa\desktop\test\include\cuadrado.h
+	<cmath>
+
+1577708196 c:\users\casa\desktop\test\include\circulo.h
+	<cmath>
+
+1577708689 c:\users\casa\desktop\test\include\segmento.h
+	"Punto.h"
+
+1578006094 c:\users\casa\desktop\test\include\poligono.h
+	<list>
+	<iterator>
+
+1578423644 source:c:\users\santi\desktop\test\main.cpp
+	<iostream>
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	<cmath>
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+
+1578304662 c:\users\santi\desktop\test\include\punto.h
+	<cmath>
+
+1578304662 c:\users\santi\desktop\test\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578304666 c:\users\santi\desktop\test\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578304662 c:\users\santi\desktop\test\include\cuadrado.h
+	<cmath>
+
+1578304662 c:\users\santi\desktop\test\include\circulo.h
+	<cmath>
+
+1578304664 c:\users\santi\desktop\test\include\segmento.h
+	"Punto.h"
+
+1578424096 c:\users\santi\desktop\test\include\poligono.h
+	<list>
+	<iterator>
+	<iostream>
+
+1578434864 source:c:\users\matías\desktop\facultad\ayda1\test v2\main.cpp
+	<iostream>
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	<cmath>
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+
+1578427318 c:\users\matías\desktop\facultad\ayda1\test v2\include\punto.h
+	<cmath>
+
+1578432406 c:\users\matías\desktop\facultad\ayda1\test v2\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578427318 c:\users\matías\desktop\facultad\ayda1\test v2\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578430191 c:\users\matías\desktop\facultad\ayda1\test v2\include\cuadrado.h
+	<cmath>
+
+1578427871 c:\users\matías\desktop\facultad\ayda1\test v2\include\circulo.h
+	<cmath>
+
+1578426099 c:\users\matías\desktop\facultad\ayda1\test v2\include\segmento.h
+	"Punto.h"
+
+1578429697 c:\users\matías\desktop\facultad\ayda1\test v2\include\poligono.h
+	<list>
+	<iterator>
+	<iostream>
+
+1578434782 c:\users\matías\desktop\facultad\ayda1\test v2\cuadrado.h
+
+1578434782 c:\users\matías\desktop\facultad\ayda1\test v2\include\rectangulo.h
+
+1578684898 source:c:\users\santi\desktop\test v3\main.cpp
+	<iostream>
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	<cmath>
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	<iomanip>
+	"Poligono.h"
+
+1578685295 c:\users\santi\desktop\test v3\include\punto.h
+	<cmath>
+	<iostream>
+
+1578432406 c:\users\santi\desktop\test v3\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578427318 c:\users\santi\desktop\test v3\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578434782 c:\users\santi\desktop\test v3\include\rectangulo.h
+
+1578435228 c:\users\santi\desktop\test v3\include\cuadrado.h
+
+1578427871 c:\users\santi\desktop\test v3\include\circulo.h
+	<cmath>
+
+1578426099 c:\users\santi\desktop\test v3\include\segmento.h
+	"Punto.h"
+
+1578685620 c:\users\santi\desktop\test v3\include\poligono.h
+	<vector>
+	<list>
+	<iterator>
+	<iostream>
+
+1578689756 source:c:\users\santi\desktop\test v4\main.cpp
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+	<cmath>
+	<iomanip>
+	<iostream>
+	<vector>
+
+1578685295 c:\users\santi\desktop\test v4\include\punto.h
+	<cmath>
+	<iostream>
+
+1578432406 c:\users\santi\desktop\test v4\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578427318 c:\users\santi\desktop\test v4\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578434782 c:\users\santi\desktop\test v4\include\rectangulo.h
+
+1578435228 c:\users\santi\desktop\test v4\include\cuadrado.h
+
+1578427871 c:\users\santi\desktop\test v4\include\circulo.h
+	<cmath>
+
+1578426099 c:\users\santi\desktop\test v4\include\segmento.h
+	"Punto.h"
+
+1578690629 c:\users\santi\desktop\test v4\include\poligono.h
+	<vector>
+	<list>
+	<iterator>
+	<iostream>
+	<iomanip>
+
+1578697193 source:c:\users\santi\desktop\test v5\main.cpp
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+	<cmath>
+	<iomanip>
+	<iostream>
+	<vector>
+
+1578694130 c:\users\santi\desktop\test v5\include\punto.h
+	<cmath>
+	<fstream>
+
+1578432406 c:\users\santi\desktop\test v5\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578427318 c:\users\santi\desktop\test v5\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578434782 c:\users\santi\desktop\test v5\include\rectangulo.h
+
+1578435228 c:\users\santi\desktop\test v5\include\cuadrado.h
+
+1578427871 c:\users\santi\desktop\test v5\include\circulo.h
+	<cmath>
+
+1578426099 c:\users\santi\desktop\test v5\include\segmento.h
+	"Punto.h"
+
+1578697560 c:\users\santi\desktop\test v5\include\poligono.h
+	<vector>
+	<list>
+	<iterator>
+	<iostream>
+	<iomanip>
+
+1579039135 source:c:\users\santi\desktop\test v5.1\main.cpp
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+	<cmath>
+	<iomanip>
+	<iostream>
+	<vector>
+
+1578694130 c:\users\santi\desktop\test v5.1\include\punto.h
+	<cmath>
+	<fstream>
+
+1578432406 c:\users\santi\desktop\test v5.1\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578427318 c:\users\santi\desktop\test v5.1\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578434782 c:\users\santi\desktop\test v5.1\include\rectangulo.h
+
+1578435228 c:\users\santi\desktop\test v5.1\include\cuadrado.h
+
+1578427871 c:\users\santi\desktop\test v5.1\include\circulo.h
+	<cmath>
+
+1578426099 c:\users\santi\desktop\test v5.1\include\segmento.h
+	"Punto.h"
+
+1579040087 c:\users\santi\desktop\test v5.1\include\poligono.h
+	<vector>
+	<list>
+	<iterator>
+	<iostream>
+	<iomanip>
+
+1583880313 source:c:\users\santi\desktop\algoritmo en c++\main.cpp
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+	<cmath>
+	<iomanip>
+	<iostream>
+	<vector>
+
+1578694130 c:\users\santi\desktop\algoritmo en c++\include\punto.h
+	<cmath>
+	<fstream>
+
+1578432406 c:\users\santi\desktop\algoritmo en c++\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578427318 c:\users\santi\desktop\algoritmo en c++\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578434782 c:\users\santi\desktop\algoritmo en c++\include\rectangulo.h
+
+1578435228 c:\users\santi\desktop\algoritmo en c++\include\cuadrado.h
+
+1578427871 c:\users\santi\desktop\algoritmo en c++\include\circulo.h
+	<cmath>
+
+1578426099 c:\users\santi\desktop\algoritmo en c++\include\segmento.h
+	"Punto.h"
+
+1583939221 c:\users\santi\desktop\algoritmo en c++\include\poligono.h
+	<vector>
+	<list>
+	<iterator>
+	<iostream>
+	<iomanip>
+
+1583880313 source:c:\users\santi\desktop\ayda 1\algoritmo en c++\main.cpp
+	"Punto.h"
+	"Figura2D.h"
+	"Triangulo.h"
+	"Rectangulo.h"
+	"Cuadrado.h"
+	"Circulo.h"
+	"Segmento.h"
+	"Poligono.h"
+	<cmath>
+	<iomanip>
+	<iostream>
+	<vector>
+
+1578694130 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\punto.h
+	<cmath>
+	<fstream>
+
+1578432406 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\figura2d.h
+	"Punto.h"
+	<list>
+
+1578427318 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\triangulo.h
+	"Punto.h"
+	<cmath>
+
+1578434782 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\rectangulo.h
+
+1578435228 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\cuadrado.h
+
+1578427871 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\circulo.h
+	<cmath>
+
+1578426099 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\segmento.h
+	"Punto.h"
+
+1584554551 c:\users\santi\desktop\ayda 1\algoritmo en c++\include\poligono.h
+	<vector>
+	<list>
+	<iterator>
+	<iostream>
+	<iomanip>
+
